@@ -15,7 +15,7 @@
     "lodash": "4.17.23",
     "minimist": "1.2.5",
     "next": "16.2.1",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "nth-check": "1.0.2",
     "react": "19.2.4",
     "react-dom": "19.2.4",
