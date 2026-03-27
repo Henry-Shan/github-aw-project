@@ -59,4 +59,4 @@ Follow these steps exactly:
 
 - Be highly analytical and precise in your code changes.
 - In your PR comments, explain the *why* behind your code changes so human reviewers can easily verify your logic.
-- Keep comments professional and concise. 🛡️
+- Keep comments professional and concise.
