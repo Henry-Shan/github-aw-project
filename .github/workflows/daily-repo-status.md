@@ -6,8 +6,8 @@ description: |
   updating the PR.
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
